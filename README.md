@@ -81,7 +81,7 @@ Check the `visualizations/` folder for generated charts.
 ---
 
 ## 📄 Documentation Links
-- [LCSI Official Website](#)
+- [LCSI Official Website](#https://lcsi.esi.dz/)
 - [Evaluation Framework Documentation](#)
 
 ---
