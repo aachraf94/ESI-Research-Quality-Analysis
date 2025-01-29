@@ -1,50 +1,52 @@
 Champ,Référence,Code Critère,Critères,% Estimation,Remarques,Preuves
-R1,R1.1,R1.1.1,"Domaines de recherche bien définis",85%,"Les deux laboratoires ont des domaines de recherche bien définis • LCSI: systèmes distribués, bases de données avancées • LMCS: IoT et Cloud • Publications et séminaires réguliers sur l'IoT et le Cloud",
-R1,R1.1,R1.1.2,"Structure claire des axes de recherche",80%,"Structure claire des axes de recherche • LCSI: équipes organisées (Distribution Dynamique de Données, Bases de Données Avancées, Processus Intelligents) • LMCS: séminaires documentés","http://lcsi.esi.dz/Projets%20PRFU.htm"
-R1,R1.1,R1.1.3,"Communication active des activités",80%,"Communication active via : • Séminaires réguliers (IoT/Cloud) • Calendrier des manifestations accessible • Bilans scientifiques 2016-2023","Bilans LCSI disponibles sur le site"
-R1,R1.1,R1.1.4,"Lien vers Projets PRFU",70%,,http://lcsi.esi.dz/Projets%20PRFU.htm
-R1,R1.1,R1.1.5,"Encadrements PFE & Masters",70%,"Historique 2019-2023 (LCSI) • Séminaires pour doctorants (LMCS)",
-R1,R1.2,R1.2.1,"Structure claire des équipes",95%,"4 équipes bien définies (LCSI) • Collaboration LMCS/ESI-CEDRIC/CNAM",
-R1,R1.2,R1.2.2,"Hiérarchie claire",70%,"Direction et chefs d'équipe identifiés • Structure administrative visible",
-R1,R1.2,R1.2.3,"Cadres de collaboration",65%,"Partenariats formalisés • Collaboration internationale (CEDRIC/CNAM)",
-R1,R1.3,R1.3.1,"Bilans annuels",70%,"Bilans 2016-2023 (LCSI) • Activités documentées via séminaires (LMCS)",
-R1,R1.3,R1.3.2,"Processus d'évaluation",75%,"Section 'Production scientifique' avec bilans détaillés • Historique des bilans",
-R1,R1.3,R1.3.3,"Rencontres scientifiques",65%,"Séminaires réguliers (LMCS) • Calendrier des manifestations (LCSI)",
-R1,R1.3,R1.3.4,"Structure évolutive",60%,"Évolution des équipes visible • Mise à jour des activités",
-R1,R1.4,R1.4.1,"Alignement des projets",85%,"Projets PRFU alignés • Domaines clairement définis","http://lcsi.esi.dz/Projets%20PRFU.htm"
-R1,R1.4,R1.4.2,"Structure organisationnelle",80%,"4 équipes spécialisées (LCSI) • Responsables d'équipes identifiés",
-R1,R1.4,R1.4.3,"Priorités non définies",50%,"Aucune priorité clairement établie",
-R1,R1.5,R1.5.1,"Absence de mécanismes",10%,"Pas d'identification des besoins environnementaux",
-R1,R1.5,R1.5.2,"Sujets proposés par professeurs",30%,"Exemples : Deep Learning pour IRM-3D (2021) • Blockchains IoT (2020)","Projets CHU Ibn Rochd et BRANDT Electronics"
-R1,R1.5,R1.5.3,"Collaborations rares",20%,"Rencontres occasionnelles avec partenaires",
-R1,R1.5,R1.5.4,"Impact non mesuré",30%,"Aucun mécanisme d'évaluation post-recherche",
-R1,R1.6,R1.6.1,"Manque de ressources",40%,"Budget insuffisant",
-R1,R1.6,R1.6.2,"N/A",50%,,
-R1,R1.6,R1.6.3,"N/A",40%,,
-R1,R1.7,R1.7.1,"N/A",0%,,
-R1,R1.8,R1.8.1,"N/A",0%,,
-R1,R1.9,R1.9.1,"Veille non structurée",20%,"Veille via réseau informel entre chercheurs",
-R1,R1.9,R1.9.2,"Processus de veille ad hoc",50%,"Thématiques proposées par chercheurs",
-R2,R2.1,R2.1.1,"Services communs manquants",10%,"Pas de services fonctionnels en R&I",
-R2,R2.1,R2.1.2,"Pluridisciplinarité",85%,"6 équipes • 30 chercheurs • 6 projets","Mathématiques, software, hardware, électricité"
-R2,R2.1,R2.1.3,"Manifestations scientifiques",70%,"PhD Days • Conférences",
-R2,R2.2,R2.2.1,"Stratégie de partenariat absente",0%,"Collaborations informelles",
-R2,R2.2,R2.2.2,"Partenariats potentiels",65%,"LNCSS (gendarme) • Hôpital Aïn Taya (IA médicale)","Annuaire partenaires mis à jour"
-R2,R2.2,R2.2.3,"Évaluation des partenariats",0%,"Aucun suivi formalisé",
-R2,R2.2,R2.2.5,"Mobilité nationale",60%,"Soutenances à Oran/Tlemcen • Taux de participation : 3.3%",
-R2,R2.3,R2.3.1,"Projets PFE dominants",90%,"Majorité des collaborations via PFE",
-R2,R2.3,R2.3.2,"Événements rares",70%,"Manifestations occasionnelles avec partenaires",
-R2,R2.3,R2.3.4,"Limitation aux PFE",50%,"Aucun projet au-delà des PFE",
-R2,R2.3,R2.3.5,"Collaborations informelles",30%,"Liste d'établissements bannis disponible",
-R2,R2.4,R2.4.1,"Pas de diffusion structurée",0%,"Aucune règle pour les publications",
-R2,R2.4,R2.4.3,"N/A",0%,,
-R2,R2.4,R2.4.4,"Site web non utilisé",,"Publications absentes du site ESI","Site officiel ESI"
-R3,R3.1,R3.1.1,"Implémentation lente",60%,"Processus long pour intégrer les innovations",
-R3,R3.1,R3.1.2,"N/A",25%,,
-R3,R3.1,R3.1.3,"Partenariats inefficaces",35%,"Collaborations rares et non structurées",
-R3,R3.2,R3.2.1,"Moyenne et dispositif pour inciter et accompagner les chercheurs dans la production de brevets",25%
-R3,R3.2,R3.2.2," dispositif deprotectionde lapropriété intellectuelle et industrielle.",20%
-R3,R3.3,R3.3.1,"Pas de plateforme dédiée",0%,"Publications sur sites spécialisés • Pas de réseaux sociaux","Site web ESI et plateformes externes"
-R3,R3.3,R3.3.2,"Réseaux sociaux pour publication scientifique",10%,"Aucun canal de diffusion social",
-R3,R3.3,R3.3.3,"Engagement étudiant faible",0%,"Pas de stratégie dédiée",
-R3,R3.3,R3.3.4,"Événements doctorants uniquement",0%,"Manque d'activités pour étudiants",
+R1,R1.1,R1.1.1,"L'établissement définit sa politique de recherche et d'innovation",85%,"Les deux laboratoires ont des domaines de recherche bien définis • LCSI: systèmes distribués, bases de données avancées • LMCS: IoT et Cloud • Publications et séminaires réguliers sur l'IoT et le Cloud",
+R1,R1.1,R1.1.2,"L'établissement établit un programme par ordre de priorité de ses axes de recherche",80%,"Structure claire des axes de recherche • LCSI: équipes organisées (Distribution Dynamique de Données, Bases de Données Avancées, Processus Intelligents) • LMCS: séminaires documentés","http://lcsi.esi.dz/Projets%20PRFU.htm"
+R1,R1.1,R1.1.3,"L'établissement vulgarise son programme de recherche en interne et auprès de ses partenaires",80%,"Communication active via : • Séminaires réguliers (IoT/Cloud) • Calendrier des manifestations accessible • Bilans scientifiques 2016-2023","Bilans LCSI disponibles sur le site"
+R1,R1.1,R1.1.4,"L'établissement réunit les ressources nécessaires pour les activités de la recherche et de l'innovation",70%,,http://lcsi.esi.dz/Projets%20PRFU.htm
+R1,R1.1,R1.1.5,"L'établissement veille à l'évolution continue du personnel de recherche",70%,"Historique 2019-2023 (LCSI) • Séminaires pour doctorants (LMCS)",
+R1,R1.2,R1.2.1,"L'établissement crée les entités de recherche et d'innovation appropriées",95%,"4 équipes bien définies (LCSI) • Collaboration LMCS/ESI-CEDRIC/CNAM",
+R1,R1.2,R1.2.2,"L'établissement met en place les organes de pilotage réglementaires",70%,"Direction et chefs d'équipe identifiés • Structure administrative visible",
+R1,R1.2,R1.2.3,"L'établissement veille à l'éthique et l'intégrité académique dans ses activités de recherche",65%,"Partenariats formalisés • Collaboration internationale (CEDRIC/CNAM)",
+R1,R1.3,R1.3.1,"L'établissement dispose d'un système d'assurance qualité pour ses activités de recherche",70%,"Bilans 2016-2023 (LCSI) • Activités documentées via séminaires (LMCS)",
+R1,R1.3,R1.3.2,"L'établissement évalue en interne ses activités de recherche selon un processus défini",75%,"Section 'Production scientifique' avec bilans détaillés • Historique des bilans",
+R1,R1.3,R1.3.3,"L'établissement mène des débats sur les résultats de l'évaluation interne",65%,"Séminaires réguliers (LMCS) • Calendrier des manifestations (LCSI)",
+R1,R1.3,R1.3.4,"L'établissement met en place un plan d'amélioration continue",60%,"Évolution des équipes visible • Mise à jour des activités",
+R1,R1.4,R1.4.1,"Les projets de recherche traitent des problématiques liées aux priorités de l'établissement",85%,"Projets PRFU alignés • Domaines clairement définis","http://lcsi.esi.dz/Projets%20PRFU.htm"
+R1,R1.4,R1.4.2,"Toute nouvelle création d'entité de recherche est rattachée à un axe prioritaire",80%,"4 équipes spécialisées (LCSI) • Responsables d'équipes identifiés",
+R1,R1.4,R1.4.3,"L'établissement affecte les ressources financières selon l'ordre de priorité",50%,"Aucune priorité clairement établie",
+R1,R1.5,R1.5.1,"Mise en place de mécanismes d'identification des besoins socioéconomiques",10%,"Pas d'identification des besoins environnementaux",
+R1,R1.5,R1.5.2,"Les projets de recherche et thèmes de thèses sont adaptés aux besoins locaux",30%,"Exemples : Deep Learning pour IRM-3D (2021) • Blockchains IoT (2020)","Projets CHU Ibn Rochd et BRANDT Electronics"
+R1,R1.5,R1.5.3,"Organisation de rencontres régulières avec les opérateurs socioéconomiques",20%,"Rencontres occasionnelles avec partenaires",
+R1,R1.5,R1.5.4,"Mesure de l'impact de la recherche sur l'environnement socioéconomique",30%,"Aucun mécanisme d'évaluation post-recherche",
+R1,R1.6,R1.6.1,"Mise à disposition des conditions et ressources nécessaires à la recherche",40%,"Budget insuffisant",
+R1,R1.6,R1.6.2,"Motivation des acteurs par la valorisation des résultats",50%,,
+R1,R1.6,R1.6.3,"Mise en place de structures d'accompagnement à l'innovation",40%,,
+R1,R1.7,R1.7.1,"Établissement d'une politique de formation à la recherche et à l'innovation",0%,,
+R1,R1.7,R1.7.2,"L'établissement encourage les jeunes chercheurs",0%,"Aucune donnée disponible",/
+R1,R1.7,R1.7.3,"L'établissement soutient l'innovation",0%,"Aucune donnée disponible",/
+R1,R1.8,R1.8.1,"Politique documentaire adaptée aux besoins des chercheurs",0%,,
+R1,R1.8,R1.8.2,"Mise en place d'un fond documentaire adapté",0%,"Aucune donnée disponible",/
+R1,R1.9,R1.9.1,"Structure de veille technologique et scientifique opérationnelle",20%,"Veille via réseau informel entre chercheurs",
+R1,R1.9,R1.9.2,"Implication des chercheurs dans les activités de veille",50%,"Thématiques proposées par chercheurs",
+R2,R2.1,R2.1.1,"Mutualisation des équipements via services communs",10%,"Pas de services fonctionnels en R&I",
+R2,R2.1,R2.1.2,"Encouragement à la pluridisciplinarité des équipes",85%,"6 équipes • 30 chercheurs • 6 projets","Mathématiques, software, hardware, électricité"
+R2,R2.1,R2.1.3,"Organisation d'activités de diffusion des travaux de recherche",70%,"PhD Days • Conférences",
+R2,R2.2,R2.2.1,"Définition d'une stratégie de partenariats",0%,"Collaborations informelles",
+R2,R2.2,R2.2.2,"Identification des partenaires locaux/régionaux/nationaux",65%,"LNCSS (gendarme) • Hôpital Aïn Taya (IA médicale)","Annuaire partenaires mis à jour"
+R2,R2.2,R2.2.3,"Mise en œuvre et évaluation des partenariats",0%,"Aucun suivi formalisé",
+R2,R2.2,R2.2.4,"Association des partenaires aux manifestations",0%,"Aucune donnée disponible",/
+R2,R2.2,R2.2.5,"Encouragement à la mobilité nationale des chercheurs",60%,"Soutenances à Oran/Tlemcen • Taux de participation : 3.3%",
+R2,R2.3,R2.3.1,"Conventions et projets de recherche internationaux",90%,"Majorité des collaborations via PFE",
+R2,R2.3,R2.3.2,"Co-organisation de manifestations internationales",70%,"Manifestations occasionnelles avec partenaires",
+R2,R2.3,R2.3.3,"Mobilité internationale des chercheurs",0%,"Aucune donnée disponible",/
+R2,R2.3,R2.3.4,"Réalisation de travaux avec chercheurs internationaux",50%,"Aucun projet au-delà des PFE",
+R2,R2.3,R2.3.5,"Évaluation des partenariats internationaux",30%,"Liste d'établissements bannis disponible",
+R2,R2.4,R2.4.1,"Établissement d'une politique de communication scientifique",0%,"Aucune règle pour les publications",
+R2,R2.4,R2.4.4,"Publication via divers supports (site web, revues)",,"Publications absentes du site ESI","Site officiel ESI"
+R3,R3.1,R3.1.1,"Intégration des résultats de recherche dans les formations",60%,"Processus long pour intégrer les innovations",
+R3,R3.1,R3.1.2,"Organisation de formations spécialisées",0%,"Aucune donnée disponible",/
+R3,R3.1,R3.1.3,"Mécanismes de valorisation et transfert technologique",35%,"Collaborations rares et non structurées",
+R3,R3.3,R3.3.1,"Actions de vulgarisation auprès du grand public",20%,"Publications sur sites spécialisés • Pas de réseaux sociaux","Site web ESI et plateformes externes"
+R3,R3.3,R3.3.2,"Utilisation des réseaux sociaux pour la diffusion scientifique",10%,"Aucun canal de diffusion social",
+R3,R3.3,R3.3.3,"Opportunités pour étudiants de découvrir la recherche",20%,"Pas de stratégie dédiée",
+R3,R3.3,R3.3.4,"Organisation d'activités de diffusion des travaux de recherche",5%,"Activités rare pour étudiants",
