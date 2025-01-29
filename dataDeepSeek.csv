@@ -1,0 +1,50 @@
+Champ,Référence,Code Critère,Critères,% Estimation,Remarques,Preuves
+R1,R1.1,R1.1.1,"Domaines de recherche bien définis",85%,"Les deux laboratoires ont des domaines de recherche bien définis • LCSI: systèmes distribués, bases de données avancées • LMCS: IoT et Cloud • Publications et séminaires réguliers sur l'IoT et le Cloud",
+R1,R1.1,R1.1.2,"Structure claire des axes de recherche",80%,"Structure claire des axes de recherche • LCSI: équipes organisées (Distribution Dynamique de Données, Bases de Données Avancées, Processus Intelligents) • LMCS: séminaires documentés","http://lcsi.esi.dz/Projets%20PRFU.htm"
+R1,R1.1,R1.1.3,"Communication active des activités",80%,"Communication active via : • Séminaires réguliers (IoT/Cloud) • Calendrier des manifestations accessible • Bilans scientifiques 2016-2023","Bilans LCSI disponibles sur le site"
+R1,R1.1,R1.1.4,"Lien vers Projets PRFU",70%,,http://lcsi.esi.dz/Projets%20PRFU.htm
+R1,R1.1,R1.1.5,"Encadrements PFE & Masters",70%,"Historique 2019-2023 (LCSI) • Séminaires pour doctorants (LMCS)",
+R1,R1.2,R1.2.1,"Structure claire des équipes",95%,"4 équipes bien définies (LCSI) • Collaboration LMCS/ESI-CEDRIC/CNAM",
+R1,R1.2,R1.2.2,"Hiérarchie claire",70%,"Direction et chefs d'équipe identifiés • Structure administrative visible",
+R1,R1.2,R1.2.3,"Cadres de collaboration",65%,"Partenariats formalisés • Collaboration internationale (CEDRIC/CNAM)",
+R1,R1.3,R1.3.1,"Bilans annuels",70%,"Bilans 2016-2023 (LCSI) • Activités documentées via séminaires (LMCS)",
+R1,R1.3,R1.3.2,"Processus d'évaluation",75%,"Section 'Production scientifique' avec bilans détaillés • Historique des bilans",
+R1,R1.3,R1.3.3,"Rencontres scientifiques",65%,"Séminaires réguliers (LMCS) • Calendrier des manifestations (LCSI)",
+R1,R1.3,R1.3.4,"Structure évolutive",60%,"Évolution des équipes visible • Mise à jour des activités",
+R1,R1.4,R1.4.1,"Alignement des projets",85%,"Projets PRFU alignés • Domaines clairement définis","http://lcsi.esi.dz/Projets%20PRFU.htm"
+R1,R1.4,R1.4.2,"Structure organisationnelle",80%,"4 équipes spécialisées (LCSI) • Responsables d'équipes identifiés",
+R1,R1.4,R1.4.3,"Priorités non définies",50%,"Aucune priorité clairement établie",
+R1,R1.5,R1.5.1,"Absence de mécanismes",10%,"Pas d'identification des besoins environnementaux",
+R1,R1.5,R1.5.2,"Sujets proposés par professeurs",30%,"Exemples : Deep Learning pour IRM-3D (2021) • Blockchains IoT (2020)","Projets CHU Ibn Rochd et BRANDT Electronics"
+R1,R1.5,R1.5.3,"Collaborations rares",20%,"Rencontres occasionnelles avec partenaires",
+R1,R1.5,R1.5.4,"Impact non mesuré",30%,"Aucun mécanisme d'évaluation post-recherche",
+R1,R1.6,R1.6.1,"Manque de ressources",40%,"Budget insuffisant",
+R1,R1.6,R1.6.2,"N/A",50%,,
+R1,R1.6,R1.6.3,"N/A",40%,,
+R1,R1.7,R1.7.1,"N/A",0%,,
+R1,R1.8,R1.8.1,"N/A",0%,,
+R1,R1.9,R1.9.1,"Veille non structurée",20%,"Veille via réseau informel entre chercheurs",
+R1,R1.9,R1.9.2,"Processus de veille ad hoc",50%,"Thématiques proposées par chercheurs",
+R2,R2.1,R2.1.1,"Services communs manquants",10%,"Pas de services fonctionnels en R&I",
+R2,R2.1,R2.1.2,"Pluridisciplinarité",85%,"6 équipes • 30 chercheurs • 6 projets","Mathématiques, software, hardware, électricité"
+R2,R2.1,R2.1.3,"Manifestations scientifiques",70%,"PhD Days • Conférences",
+R2,R2.2,R2.2.1,"Stratégie de partenariat absente",0%,"Collaborations informelles",
+R2,R2.2,R2.2.2,"Partenariats potentiels",65%,"LNCSS (gendarme) • Hôpital Aïn Taya (IA médicale)","Annuaire partenaires mis à jour"
+R2,R2.2,R2.2.3,"Évaluation des partenariats",0%,"Aucun suivi formalisé",
+R2,R2.2,R2.2.5,"Mobilité nationale",60%,"Soutenances à Oran/Tlemcen • Taux de participation : 3.3%",
+R2,R2.3,R2.3.1,"Projets PFE dominants",90%,"Majorité des collaborations via PFE",
+R2,R2.3,R2.3.2,"Événements rares",70%,"Manifestations occasionnelles avec partenaires",
+R2,R2.3,R2.3.4,"Limitation aux PFE",50%,"Aucun projet au-delà des PFE",
+R2,R2.3,R2.3.5,"Collaborations informelles",30%,"Liste d'établissements bannis disponible",
+R2,R2.4,R2.4.1,"Pas de diffusion structurée",0%,"Aucune règle pour les publications",
+R2,R2.4,R2.4.3,"N/A",0%,,
+R2,R2.4,R2.4.4,"Site web non utilisé",,"Publications absentes du site ESI","Site officiel ESI"
+R3,R3.1,R3.1.1,"Implémentation lente",60%,"Processus long pour intégrer les innovations",
+R3,R3.1,R3.1.2,"N/A",25%,,
+R3,R3.1,R3.1.3,"Partenariats inefficaces",35%,"Collaborations rares et non structurées",
+R3,R3.2,R3.2.1,"Moyenne et dispositif pour inciter et accompagner les chercheurs dans la production de brevets",25%
+R3,R3.2,R3.2.2," dispositif deprotectionde lapropriété intellectuelle et industrielle.",20%
+R3,R3.3,R3.3.1,"Pas de plateforme dédiée",0%,"Publications sur sites spécialisés • Pas de réseaux sociaux","Site web ESI et plateformes externes"
+R3,R3.3,R3.3.2,"Réseaux sociaux pour publication scientifique",10%,"Aucun canal de diffusion social",
+R3,R3.3,R3.3.3,"Engagement étudiant faible",0%,"Pas de stratégie dédiée",
+R3,R3.3,R3.3.4,"Événements doctorants uniquement",0%,"Manque d'activités pour étudiants",
