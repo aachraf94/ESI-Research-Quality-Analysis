@@ -92,7 +92,3 @@ Check the `visualizations/` folder for generated charts.
 ## 4️⃣ License
 This project is licensed under the **MIT License**.
 
----
-
-Feel free to adjust `[ ]` sections with your specific details before deployment.
-
